@@ -1,0 +1,12 @@
+This is my book club app where i have made it from firebase as my backend.
+
+How to run it.......................
+just unzip the file and you should be able to run as firebase db is always running if any problems do occur please contact me.
+
+
+
+
+I have used a lot of OOP where i have used inheritance and encapsulation which are all professional ways to use android studio
+I have faced a lot of issues with the manifesto where declaring the classes was a problem and android studio did not do it for me
+Also had to restart my project several time which was a problem
+I Have stuggled to make the global chat work which is one of my lowpoints but except for that everything works
